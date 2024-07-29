@@ -1,13 +1,27 @@
-# Sample Hardhat Project
+# Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is a Hardhat project used for developing, deploying, and testing Ethereum smart contracts.
 
-Try running some of the following tasks:
+## Getting Started
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Follow these instructions to get a copy of the project and running the hardhat project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Git](https://git-scm.com/)
+
+### Installing
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/jayeshy14/NFT-Staking/.git
+   cd NFT-Staking
+
+
+   
+
