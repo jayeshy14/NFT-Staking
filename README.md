@@ -1,6 +1,7 @@
-# Hardhat Project
+# NFT Staking Project
 
-This is a Hardhat project used for developing, deploying, and testing Ethereum smart contracts.
+Stake NFTs and earn rewards.
+
 
 ## Getting Started
 
